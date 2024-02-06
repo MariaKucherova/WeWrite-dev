@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dosis&family=Oswald&display=swap" rel="stylesheet">
+    <script src="../js/functions.js"></script>
+    <title>WeWrite</title>
+</head>
+<body>
+    <header class="header">
+        <a href="#" class="logo">WeWrite</a>
+        <nav class="menu">
+            <ul class="menu__ul">
+                <li class="menu__li"><a href="#home" class="menu__link">Home</a></li>
+                <li class="menu__li"><a href="#blog" class="menu__link">Blog</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <div id="home" class="home">
+                <div class="home__title">Your Home for Thoughts, Ideas, and Inspiration!</div>
+                <div class="line"></div>
+            </div>
+
+            <div id="blog" class="blog">
+                <div class="blog__title">Blog</div>
+                <div class="cards">
+
+                </div>
+                <div id="popup-overlay">
+                    <div id="popup">
+                        <input type="hidden" id="noteId" class="noteId" />
+                        <div class="divPopup">
+                            Title: <br />
+                            <input id="noteTitle" class="noteTitle" />
+                        </div>
+                        <div class="divPopup">
+                            Text: <br />
+                            <textarea id="noteText" class="noteText"></textarea>
+                        </div>
+                        <div>
+                            <button onclick="editUser()" id="saveBtn" class="btn">Save</button>
+                            <button onclick="hidePopup(popupOverlay)" class="btn">Cancel</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="footer__text">
+            © COPYRIGHT 2024
+        </div>
+    </footer>
+    <script>
+        getCards();
+
+        const popupOverlay = document.getElementById("popup-overlay");
+        const popup = document.getElementById("popup");
+
+        popupOverlay.addEventListener("click", hidePopup(popupOverlay));
+        popup.addEventListener("click", (event) => event.stopPropagation());
+    </script>
+</body>
+</html>

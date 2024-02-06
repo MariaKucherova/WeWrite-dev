@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "aJhZ0tAnFnX2SryKmwZPZatOuTGH4lTvDQUdDeIOEn0=",
+  "Source": "WeWriteWeb",
+  "BasePath": "_content/WeWriteWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeWriteWeb\\wwwroot",
+      "Source": "WeWriteWeb",
+      "ContentRoot": "C:\\Users\\MVM13\\OneDrive\\Рабочий стол\\Файлы\\Учеба\\Metanit\\C#\\ASP.NET Core\\WeWrite\\WeWriteWeb\\wwwroot\\",
+      "BasePath": "_content/WeWriteWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\MVM13\\OneDrive\\Рабочий стол\\Файлы\\Учеба\\Metanit\\C#\\ASP.NET Core\\WeWrite\\WeWriteWeb\\wwwroot\\css\\styles.css",
+      "SourceId": "WeWriteWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MVM13\\OneDrive\\Рабочий стол\\Файлы\\Учеба\\Metanit\\C#\\ASP.NET Core\\WeWrite\\WeWriteWeb\\wwwroot\\",
+      "BasePath": "_content/WeWriteWeb",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\MVM13\\OneDrive\\Рабочий стол\\Файлы\\Учеба\\Metanit\\C#\\ASP.NET Core\\WeWrite\\WeWriteWeb\\wwwroot\\html\\index.html",
+      "SourceId": "WeWriteWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MVM13\\OneDrive\\Рабочий стол\\Файлы\\Учеба\\Metanit\\C#\\ASP.NET Core\\WeWrite\\WeWriteWeb\\wwwroot\\",
+      "BasePath": "_content/WeWriteWeb",
+      "RelativePath": "html/index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\MVM13\\OneDrive\\Рабочий стол\\Файлы\\Учеба\\Metanit\\C#\\ASP.NET Core\\WeWrite\\WeWriteWeb\\wwwroot\\js\\functions.js",
+      "SourceId": "WeWriteWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MVM13\\OneDrive\\Рабочий стол\\Файлы\\Учеба\\Metanit\\C#\\ASP.NET Core\\WeWrite\\WeWriteWeb\\wwwroot\\",
+      "BasePath": "_content/WeWriteWeb",
+      "RelativePath": "js/functions.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Always",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\functions.js"
+    }
+  ]
+}

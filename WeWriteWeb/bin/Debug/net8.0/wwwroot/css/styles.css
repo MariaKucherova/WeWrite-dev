@@ -1,0 +1,192 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Dosis', sans-serif;
+    background: #E5E3E4;
+}
+
+.header {
+    padding: 20px;
+    background: #BBC6C8;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    padding: 0 0 0 15px;
+    color: #FFF;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.menu__ul {
+    list-style: none;
+    color: #fff;
+    text-align: center;
+    font-size: 24px;
+    text-transform: uppercase;
+    display: flex;
+}
+
+.menu__link {
+    color: #FFF;
+    text-decoration: none;
+    margin: 0 26px;
+    padding: 10px;
+}
+
+    .menu__link:hover {
+        border-radius: 5px;
+        border: 3px solid #469597;
+        padding: 10px;
+    }
+
+.home {
+    height: 622px;
+    background-image: url("https://static-cdn5-2.vigbo.tech/u2973/47326/blog/4207466/2992763/37757090/2000-29062d795dc9f786b7aa7d82ccc2376f.jpg");
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    flex-direction: column;
+}
+
+.home__title {
+    color: #5BA199;
+    text-align: center;
+    font-size: 46px;
+    font-weight: bold;
+}
+
+.line {
+    width: 820px;
+    height: 10px;
+    background: #469597;
+    margin: 7px auto;
+}
+
+.blog__title {
+    padding: 30px 0px;
+    color: #469597;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card {
+    background: #DDBEAA;
+    width: 365px;
+    padding: 20px 20px 46px 20px;
+    margin-bottom: 35px;
+    gap: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.card__title {
+    color: #000;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.card__text {
+    color: #000;
+    font-size: 24px;
+}
+
+#popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: none;
+}
+
+#popup {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #E5E3E4;
+    padding: 50px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.divPopup {
+    color: #000;
+    font-size: 24px;
+}
+
+.noteTitle {
+    margin: 10px 0px;
+    color: #000;
+    font-size: 24px;
+}
+
+.noteText {
+    height: 100px;
+    width: 296px;
+    margin: 10px 0px;
+    color: #000;
+    font-size: 24px;
+    resize: none;
+}
+
+.btn {
+    font-size: 16px;
+    margin: 15px 10px 0px 0px;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #FFF;
+    background: #5BA199;
+    box-shadow: 0 5px 0 #469597;
+}
+
+.divBtn {
+    display: flex;
+    align-items: end;
+}
+
+    .btn:hover {
+        font-size: 16px;
+        margin: 15px 10px 0px 0px;
+        padding: 10px 30px;
+        background: #469597;
+        box-shadow: none;
+        position: relative;
+        top: 5px;
+    }
+
+.footer {
+    background: #BBC6C8;
+    padding: 28px 0px 14px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer__text {
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+}
