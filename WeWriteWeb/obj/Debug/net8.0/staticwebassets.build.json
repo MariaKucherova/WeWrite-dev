@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aJhZ0tAnFnX2SryKmwZPZatOuTGH4lTvDQUdDeIOEn0=",
+  "Hash": "IUHS3cpz/5sKbU/5UBVtwHhdQKads1wBHpZ/mzALOoc=",
   "Source": "WeWriteWeb",
   "BasePath": "_content/WeWriteWeb",
   "Mode": "Default",
@@ -36,12 +36,12 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\MVM13\\OneDrive\\Рабочий стол\\Файлы\\Учеба\\Metanit\\C#\\ASP.NET Core\\WeWrite\\WeWriteWeb\\wwwroot\\html\\index.html",
+      "Identity": "C:\\Users\\MVM13\\OneDrive\\Рабочий стол\\Файлы\\Учеба\\Metanit\\C#\\ASP.NET Core\\WeWrite\\WeWriteWeb\\wwwroot\\index.html",
       "SourceId": "WeWriteWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\MVM13\\OneDrive\\Рабочий стол\\Файлы\\Учеба\\Metanit\\C#\\ASP.NET Core\\WeWrite\\WeWriteWeb\\wwwroot\\",
       "BasePath": "_content/WeWriteWeb",
-      "RelativePath": "html/index.html",
+      "RelativePath": "index.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -52,7 +52,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\html\\index.html"
+      "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
       "Identity": "C:\\Users\\MVM13\\OneDrive\\Рабочий стол\\Файлы\\Учеба\\Metanit\\C#\\ASP.NET Core\\WeWrite\\WeWriteWeb\\wwwroot\\js\\functions.js",

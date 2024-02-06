@@ -48,7 +48,7 @@ namespace WeWriteWeb
                 else
                 {
                     response.ContentType = "text/html; charset=utf-8";
-                    await response.SendFileAsync("wwwroot/html/index.html");
+                    await response.SendFileAsync("wwwroot/index.html");
                 }
             });
 

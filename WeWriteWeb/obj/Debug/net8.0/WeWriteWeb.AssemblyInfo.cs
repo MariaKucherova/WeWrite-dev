@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WeWriteWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0f7411741ac122c5a413fabad11fa9cbc99a4f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("WeWriteWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WeWriteWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

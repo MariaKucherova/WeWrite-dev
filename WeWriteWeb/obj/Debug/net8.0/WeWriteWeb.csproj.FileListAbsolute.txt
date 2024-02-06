@@ -25,5 +25,6 @@ C:\Users\MVM13\OneDrive\Рабочий стол\Файлы\Учеба\Metanit\C#
 C:\Users\MVM13\OneDrive\Рабочий стол\Файлы\Учеба\Metanit\C#\ASP.NET Core\WeWrite\WeWriteWeb\obj\Debug\net8.0\ref\WeWriteWeb.dll
 C:\Users\MVM13\OneDrive\Рабочий стол\Файлы\Учеба\Metanit\C#\ASP.NET Core\WeWrite\WeWriteWeb\bin\Debug\net8.0\WeWriteWeb.staticwebassets.runtime.json
 C:\Users\MVM13\OneDrive\Рабочий стол\Файлы\Учеба\Metanit\C#\ASP.NET Core\WeWrite\WeWriteWeb\bin\Debug\net8.0\wwwroot\css\styles.css
-C:\Users\MVM13\OneDrive\Рабочий стол\Файлы\Учеба\Metanit\C#\ASP.NET Core\WeWrite\WeWriteWeb\bin\Debug\net8.0\wwwroot\html\index.html
 C:\Users\MVM13\OneDrive\Рабочий стол\Файлы\Учеба\Metanit\C#\ASP.NET Core\WeWrite\WeWriteWeb\bin\Debug\net8.0\wwwroot\js\functions.js
+C:\Users\MVM13\OneDrive\Рабочий стол\Файлы\Учеба\Metanit\C#\ASP.NET Core\WeWrite\WeWriteWeb\bin\Debug\net8.0\wwwroot\index.html
+C:\Users\MVM13\OneDrive\Рабочий стол\Файлы\Учеба\Metanit\C#\ASP.NET Core\WeWrite\WeWriteWeb\obj\Debug\net8.0\WeWriteWeb.sourcelink.json
